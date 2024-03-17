@@ -55,4 +55,4 @@ WS0 Project - Mondrian-inspired art
 
 ## Project
 
- * For my first workshop task, I will create a Mondrian-inspired 400x400 canvas using the *rect()* and *line()* functions, thus exploring 2D primitive shapes, variables, and conditionals.
+ * For my first workshop task, I will create a Mondrian-inspired 400x400 canvas that changes from colour to B&W scale using the *rect()*, *square()* and *line()* functions, thus exploring 2D primitive shapes, variables, and conditionals.
