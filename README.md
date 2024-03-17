@@ -52,3 +52,7 @@ WS0 Project - Mondrian-inspired art
 	* Stroke
 	* Fill
 	* Shape 
+
+## Project
+
+ * For my first workshop task, I will create a Mondrian-inspired 400x400 canvas using the *rect()* and *line()* functions, thus exploring 2D primitive shapes, variables, and conditionals.
