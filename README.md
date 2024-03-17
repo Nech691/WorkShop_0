@@ -1,9 +1,7 @@
 # WorkShop_0
-WS0 Project - Mondrian inspired art 
+WS0 Project - Mondrian-inspired art 
 
 >  https://nech691.github.io/WorkShop_0/
-
-Link = https://nech691.github.io/WorkShop_0/ 
 
 ## Tasks 
 * Create a p5.js editor login and sign up to the Processing Foundation Forum 
